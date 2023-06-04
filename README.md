@@ -16,6 +16,7 @@ This tool provides payload generation techniques and methods for establishing st
    ```shell
    cd ~/Downloads
    git clone https://github.com/Nikhil-Kumar100/PayloadGenerator.git
+   cd PayloadGenerator
    chmod +x hackerland.sh
    ./hackerland.sh
 
