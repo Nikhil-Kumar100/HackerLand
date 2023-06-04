@@ -14,6 +14,8 @@ This tool provides payload generation techniques and methods for establishing st
 3. Run the script with the following command:
 
    ```shell
+   cd ~/Downloads
+   git clone https://github.com/Nikhil-Kumar100/PayloadGenerator.git
    chmod +x hackerland.sh
    ./hackerland.sh
 
