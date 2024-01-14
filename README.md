@@ -1,17 +1,17 @@
-# Payload Generation and Stable Connection
+# Payload Generation Tool
 
-This tool provides payload generation techniques and methods for establishing stable connections. It is designed for educational purposes only.
+This tool offers techniques for generating payloads and methods for establishing connections. Strictly designed for educational purposes.
 
 ## Requirements
 
 - Metasploit-framework
-- Internet connection
+- Active internet connection
 
 ## Usage
 
-1. Clone this repository or download and extract the script files.
+1. Clone the repository or download and extract the script files.
 2. Open the terminal and navigate to the script directory.
-3. Run the script with the following command:
+3. Execute the script using the following command:
 
    ```shell
    cd ~/Downloads
@@ -19,14 +19,12 @@ This tool provides payload generation techniques and methods for establishing st
    cd PayloadGenerator
    chmod +x hackerland.sh
    ./hackerland.sh
+   ```
 
-## Refresh
+## Tutorial
 
-
-Watch the following [Youtube](https://youtu.be/yXsqqBKcP6o) video for a step-by-step guide on using the tool:
-
-
+Refer to the [YouTube video](https://youtu.be/yXsqqBKcP6o) for a step-by-step guide on using the tool.
 
 ## Disclaimer
 
-This script is intended for educational purposes only. The use of this script for attacking targets without prior mutual consent is illegal. It is the end user's responsibility to obey all applicable local, state, and federal laws. The authors of this script assume no liability and are not responsible for any misuse or damage caused by this script.
+This script is intended for educational purposes only. Unauthorized use for attacking targets is illegal. Users must comply with all applicable local, state, and federal laws. The authors assume no liability for any misuse or damage caused by this script.
